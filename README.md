@@ -10,7 +10,7 @@ I blend over 4 years of hands-on experience in supply chain, procurement, and ad
 
 - **Databases & SQL:** PostgreSQL, Google BigQuery, DBeaver
 - **Data Analysis & Python:** Python (Pandas, NumPy)
-- **Business Intelligence & Dashboards:** Looker Studio, Power BI
+- **Business Intelligence & Dashboards:** Looker Studio, Power BI, [Tableau Public](https://public.tableau.com/views/TableauFinalProject_1_17872530258020/Sheet1)
 - **Web Analytics & Productivity:** Google Analytics 4 (GA4), Google Sheets, Excel
 
 ---
