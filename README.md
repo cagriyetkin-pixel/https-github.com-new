@@ -1,2 +1,37 @@
-# https-github.com-new
-Cagri Yetkin
+# Hi there, I'm Cagri Yetkin 👋
+
+**Data Analyst | Bridging Supply Chain Experience with Data-Driven Decisions**
+
+I blend over 4 years of hands-on experience in supply chain, procurement, and administrative operations with modern data analytics. My focus is on turning raw business data into actionable insights through advanced SQL querying, data modeling, and interactive visual dashboards to optimize operational workflows and support decision-making.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Databases & SQL:** PostgreSQL, Google BigQuery, DBeaver
+- **Data Analysis & Python:** Python (Pandas, NumPy)
+- **Business Intelligence & Dashboards:** Looker Studio, Power BI
+- **Web Analytics & Productivity:** Google Analytics 4 (GA4), Google Sheets, Excel
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[GA4 E-Commerce Funnel & Onboarding Analysis](https://github.com/cagriyetkin-pixel)** | End-to-end user onboarding and conversion funnel performance analysis using GA4 event data. | BigQuery, Looker Studio |
+| **[Relational Database Analysis & Business SQL Queries](https://github.com/cagriyetkin-pixel)** | Complex SQL queries, multi-table JOINs, and aggregations for operational performance tracking. | PostgreSQL, DBeaver |
+
+---
+
+### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagriyetkin-pixel&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagriyetkin-pixel&show_icons=true&theme=dark)
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/cgrytkn](https://www.linkedin.com/in/cgrytkn)
+- **Email:** [cagri.yetkin@gmail.com](mailto:cagri.yetkin@gmail.com)
