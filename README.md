@@ -20,7 +20,7 @@ I blend over 4 years of hands-on experience in supply chain, procurement, and ad
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[GA4 E-Commerce Funnel & Onboarding Analysis](https://github.com/cagriyetkin-pixel)** | End-to-end user onboarding and conversion funnel performance analysis using GA4 event data. | BigQuery, Looker Studio |
-| **[Relational Database Analysis & Business SQL Queries](https://github.com/cagriyetkin-pixel)** | Complex SQL queries, multi-table JOINs, and aggregations for operational performance tracking. | PostgreSQL, DBeaver |
+| **[SQL Marketing Performance & Campaign Analysis](https://github.com/cagriyetkin-pixel/sql-marketing-performance-analysis)** | SQL queries, window functions, and cross-channel campaign analysis evaluating ROMI, spend, and reach metrics. | PostgreSQL, DBeaver |
 
 ---
 
