@@ -10,7 +10,7 @@ I blend over 4 years of hands-on experience in supply chain, procurement, and ad
 
 - **Databases & SQL:** PostgreSQL, Google BigQuery, DBeaver
 - **Data Analysis & Python:** Python (Pandas, NumPy)
-- **Business Intelligence & Dashboards:** Looker Studio, Power BI, [Tableau Public](https://public.tableau.com/views/TableauFinalProject_1_17872530258020/Sheet1)
+- **Business Intelligence & Dashboards:** Looker Studio, Power BI, [Tableau Public](https://public.tableau.com/app/profile/ca.r.yetkin/vizzes)
 - **Web Analytics & Productivity:** Google Analytics 4 (GA4), Google Sheets, Excel
 
 ---
@@ -34,5 +34,6 @@ I blend over 4 years of hands-on experience in supply chain, procurement, and ad
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/cgrytkn](https://www.linkedin.com/in/cgrytkn)
 - **Email:** [cagri.yetkin@gmail.com](mailto:cagri.yetkin@gmail.com)
+- **LinkedIn:** [linkedin.com/in/cgrytkn](https://www.linkedin.com/in/cgrytkn)
+- **Tableau Public:** [public.tableau.com/app/profile/ca.r.yetkin](https://public.tableau.com/app/profile/ca.r.yetkin/vizzes)
